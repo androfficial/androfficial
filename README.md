@@ -1,7 +1,7 @@
 ![Andrey GitHub Banner](./assets/GitHubHeader.jpg)
 
 [![Visits Badge](https://badges.pufler.dev/visits/androfficial/androfficial)](https://github.com/androfficial)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andrey-nakonechnyi)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andrii-nakonechnyi)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-da4763?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/and.r.official)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-3390ec?style=flat&logo=telegram)](https://t.me/MistrixOreo)
 [![Skype Badge](https://img.shields.io/badge/Skype-Profile-00Aff0?style=flat&logo=skype&logoColor=white)](https://join.skype.com/invite/zGlHz1PtI8uA)
