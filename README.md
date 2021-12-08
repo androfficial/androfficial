@@ -21,6 +21,7 @@ I quickly learn new technologies and I want to become a professional in my field
 ![HTML5](https://img.shields.io/badge/HTML5-483D8B?style=flat-square&logo=html5)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-483D8B?style=flat-square&logo=css3)&nbsp;
 ![SASS/SCSS](https://img.shields.io/badge/SASS/SCSS-483D8B?style=flat-square&logo=sass)&nbsp;
+![Webpack](https://img.shields.io/badge/Webpack-483D8B?style=flat-square&logo=webpack)&nbsp;
 ![Gulp](https://img.shields.io/badge/Gulp-483D8B?style=flat-square&logo=gulp)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-483D8B?style=flat-square&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/React-483D8B?style=flat-square&logo=react)&nbsp;
