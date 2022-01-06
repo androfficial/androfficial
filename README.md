@@ -26,6 +26,7 @@ I quickly learn new technologies and I want to become a professional in my field
 ![JavaScript](https://img.shields.io/badge/JavaScript-483D8B?style=flat-square&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/React-483D8B?style=flat-square&logo=react)&nbsp;
 ![React Router](https://img.shields.io/badge/React%20Router-483D8B?style=flat-square&logo=react%20router)&nbsp;
+![Typescript](https://img.shields.io/badge/Typescript-483D8B?style=flat-square&logo=typescript)&nbsp;
 ![Redux](https://img.shields.io/badge/Redux-483D8B?style=flat-square&logo=redux)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-483D8B?style=flat-square&logo=node.js)&nbsp;
 ![Express.js](https://img.shields.io/badge/Express.js-483D8B?style=flat-square&logo=express)&nbsp;
