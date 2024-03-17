@@ -6,7 +6,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" align="left">Hey there
 
 :dark_sunglasses: &nbsp;I am Andrii, front-end developer.
-I quickly learn new technologies and I want to become a professional in my field.
+I am constantly in the process of learning the latest technologies and trends in web development.
 
 ---
 
