@@ -1,8 +1,6 @@
 ![Andrey GitHub Banner](./assets/GitHubHeader.jpg)
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-da4763?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/and.r.official)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-3390ec?style=flat&logo=telegram)](https://t.me/MistrixOreo)
-[![Skype Badge](https://img.shields.io/badge/Skype-Profile-00Aff0?style=flat&logo=skype&logoColor=white)](https://join.skype.com/invite/zGlHz1PtI8uA)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-ea4335?style=flat&logo=Gmail&logoColor=white)](mailto:andriinkn@gmail.com)
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" align="left">Hey there
