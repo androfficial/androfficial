@@ -84,7 +84,7 @@ const andrii = {
 
 <!-- Stats Cards -->
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=androfficial&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=androfficial&theme=tokyonight" alt="GitHub Stats"/>
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=androfficial&theme=tokyonight" alt="Top Languages"/>
 </p>
 
