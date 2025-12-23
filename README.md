@@ -84,8 +84,8 @@ const andrii = {
 
 <!-- Stats Cards -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=androfficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&cache_seconds=86400" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=androfficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=androfficial&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=androfficial&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 <!-- Activity Graph -->
