@@ -7,14 +7,10 @@
 
 <!-- Social Badges -->
 <p align="center">
+  <a href="https://androfficial.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/andrii-nkn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://t.me/MistrixOreo"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="mailto:andriinkn@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=androfficial&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/androfficial?style=for-the-badge&color=6C63FF&labelColor=1A1B27&logo=github&label=Followers" alt="Followers"/>
 </p>
 
 ---
@@ -77,30 +73,6 @@ const andrii = {
   <img src="https://skillicons.dev/icons?i=git,github,vscode,webpack,vite,npm,docker,linux" />
 </p>
 </details>
-
----
-
-## 📊 GitHub Stats
-
-<!-- Stats Cards -->
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=androfficial&theme=tokyonight" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=androfficial&theme=tokyonight" alt="Top Languages"/>
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=androfficial&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area_color=6C63FF&area=true&hide_border=true" alt="Activity Graph"/>
-</p>
-
-<!-- Snake Animation -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
 
 ---
 
