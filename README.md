@@ -1,97 +1,34 @@
-<!-- Typing SVG -->
-<p align="center">
-  <a href="https://github.com/androfficial">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there%2C+I'm+Andrii+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Building+Modern+Web+Apps+%F0%9F%9A%80;Turning+Ideas+Into+Code+%E2%9C%A8" alt="Typing SVG" />
-  </a>
-</p>
+# Andrii Nakonechnyi
 
-<!-- Social Badges -->
-<p align="center">
-  <a href="https://androfficial.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/andrii-nkn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://t.me/MistrixOreo"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="mailto:andriinkn@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/></a>
-</p>
+Frontend Developer in Kyiv, Ukraine, with 5+ years of experience in production web apps. I build checkout and payment flows, marketing funnels, and POS and retail platforms with Vue, Nuxt, React, Angular and TypeScript.
 
----
+[Portfolio](https://androfficial.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/andrii-nkn/) · [Telegram](https://t.me/MistrixOreo)
 
-<!-- About Me Section -->
+## Experience
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
+- **Checkbox Group**, January 2026 to present: Posbox, a POS and retail management platform (Vue.js, Nuxt.js, Pinia, Vuetify).
+- **w7g (ex SuitsMe), Genesis Tech**, December 2023 to October 2025: quiz funnels and payment flows for the FABU wellness app (React, Remix, TypeScript), an internal CMS and web game interfaces for SuitsMe (Vue.js).
+- **GetWin**, August 2022 to November 2023: 4HUB, a collaboration platform with video calls and chat (React, WebRTC, WebSocket), and the TeamCollab admin portal (Angular, NgRx).
+- **Abz.agency**, August 2021 to July 2022: SPAs, server-rendered sites, admin panels and shared component libraries.
 
-```javascript
-const andrii = {
-  role: "Frontend Developer",
-  location: "Ukraine 🇺🇦",
-  languages: ["React", "TypeScript", "JavaScript", "Node.js", "HTML", "CSS"],
-  passion: "Building beautiful & functional web experiences",
-  currentFocus: "Modern Frontend Development",
-  learning: ["Fullstack Development", "Databases", "DevOps"],
-  funFact: "I turn ☕ into <code/>",
-};
-```
+Commercial code is private. The repositories below are take-home assignments and personal projects.
 
-### 🎯 Quick Facts
+## Selected projects
 
-- 🔭 Building **modern web applications** with React & TypeScript
-- 🌱 Currently growing into **Fullstack Development** — Next.js, Node.js, Databases
-- 💻 Love crafting **pixel-perfect UI** with smooth animations
-- 🚀 Always exploring new technologies and best practices
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [react-time-bridge](https://github.com/androfficial/react-time-bridge) | Time zone converter and meeting planner that finds shared working hours | React 19, TypeScript, Tailwind CSS 4, Radix UI |
+| [vue-ai-chat](https://github.com/androfficial/vue-ai-chat) | AI chat with streaming answers, chat history and an English and Ukrainian UI | Vue 3, TypeScript, Vuetify, Pinia |
+| [portfolio](https://github.com/androfficial/portfolio) | Personal portfolio site with case studies, built to respect reduced motion | Astro, Tailwind CSS, GSAP |
+| [react-attendance-journal](https://github.com/androfficial/react-attendance-journal) | School attendance journal with optimistic updates | React 18, TypeScript, React Query, Material UI |
+| [react-crypto-tracker](https://github.com/androfficial/react-crypto-tracker) | Live cryptocurrency prices over a WebSocket stream | React 18, TypeScript, Tailwind CSS |
+| [vue-ontrack](https://github.com/androfficial/vue-ontrack) | Daily time tracker with an hourly timeline and activity targets | Vue 3, Tailwind CSS, Vite |
 
----
+## Stack
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
-
-<details open>
-<summary><b>🎨 Frontend</b></summary>
-<br/>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,sass,redux" />
-</p>
-</details>
-
-<details open>
-<summary><b>🎭 UI & Styling</b></summary>
-<br/>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap,styledcomponents,css,sass,figma,ps" />
-</p>
-</details>
-
-<details open>
-<summary><b>⚙️ Backend & Database</b></summary>
-<br/>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql,postgres,prisma,graphql" />
-</p>
-</details>
-
-<details open>
-<summary><b>🛠️ Tools & Workflow</b></summary>
-<br/>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,webpack,vite,npm,docker,linux" />
-</p>
-</details>
-
----
-
-## 🤝 Let's Connect!
-
-<p align="center">
-  <i>💬 Feel free to reach out for collaborations, projects, or just a friendly chat!</i>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/andrii-nkn">
-    <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:andriinkn@gmail.com">
-    <img src="https://img.shields.io/badge/Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
-</p>
+- **Frameworks:** Vue.js, Nuxt.js, React, Next.js, Remix, Angular, React Native (Expo)
+- **Languages:** TypeScript, JavaScript, HTML, CSS
+- **State and data:** Pinia, Vuex, Redux Toolkit, RTK Query, NgRx, RxJS, REST, WebSocket, WebRTC
+- **UI:** Tailwind CSS, SCSS, Vuetify, Material UI, Angular Material, Storybook
+- **Testing:** Jest, React Testing Library, Vue Test Utils, Cypress
+- **Delivery:** Vite, Webpack, GitHub Actions, GitLab, TeamCity
